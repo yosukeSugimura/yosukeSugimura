@@ -1,5 +1,28 @@
-## Hi there 👋
+# Yosuke Sugimura
 
+SET / Quality Engineering
+
+Building reliable SaaS quality platforms through:
+
+- Integration Testing
+- CI/CD
+- Test Automation
+- Reliability Engineering
+- Quality Platform Design
+
+## Philosophy
+
+- Risk-based Testing
+- Testing Trophy
+- Integration First
+- Build quality into development
+
+## Interests
+
+- AI-assisted Engineering
+- Scalable Quality Architecture
+- Developer Experience
+- SaaS Reliability
 <!--
 **yosukeSugimura/yosukeSugimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
