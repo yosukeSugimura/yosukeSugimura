@@ -23,6 +23,15 @@ Building reliable SaaS quality platforms through:
 - Scalable Quality Architecture
 - Developer Experience
 - SaaS Reliability
+
+## Current Focus
+
+- Integration-first quality strategy for SaaS platforms
+- CI quality gates and automated verification pipelines
+- Reliable testing around Redis / DB / Worker / External API boundaries
+- AI-assisted development and testing workflows
+- Scalable quality architecture for fast-moving product teams
+
 <!--
 **yosukeSugimura/yosukeSugimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
