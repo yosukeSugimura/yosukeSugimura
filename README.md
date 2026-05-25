@@ -32,6 +32,10 @@ Building reliable SaaS quality platforms through:
 - AI-assisted development and testing workflows
 - Scalable quality architecture for fast-moving product teams
 
+## Stack
+
+TypeScript / Node.js / Playwright / CodeceptJS / Docker / GitHub Actions
+
 <!--
 **yosukeSugimura/yosukeSugimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
